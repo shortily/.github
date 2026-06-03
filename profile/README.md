@@ -13,8 +13,13 @@ analytics aggregate **senza IP grezzi e senza cookie** di default.
   <a href="https://shortily.ink"><b>🌐 shortily.ink</b></a>
   &nbsp;·&nbsp;
   <a href="https://app.shortily.ink"><b>🚀 Apri la dashboard</b></a>
+</p>
+<p>
+  <a href="https://app.shortily.ink/privacy"><b>📄 Privacy Policy</b></a>
   &nbsp;·&nbsp;
-  <a href="https://app.shortily.ink/privacy"><b>📄 Privacy</b></a>
+  <a href="https://app.shortily.ink/terms"><b>🖋️ Termini di servizio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://app.shortily.ink/cookie-policy"><b>🍪 Cookie Policy</b></a>
 </p>
 
 </div>
@@ -35,4 +40,6 @@ analytics aggregate **senza IP grezzi e senza cookie** di default.
 
 <div align="center">
 <sub>Made in Europe · GDPR-ready · © Shortily</sub>
+&nbsp;—
+<sub>help@shortily.ink</sub>
 </div>
